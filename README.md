@@ -1,2 +1,4 @@
-# LogIn-page
-Hi there i maked thes page when me bored
+#Login page
+# Hi there, I made this page when I was bored.
+
+This page is default, but you can see it. :>
